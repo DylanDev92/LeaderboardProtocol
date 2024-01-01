@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaderboardProtocol", "LeaderboardProtocol\LeaderboardProtocol.csproj", "{74E2C523-5480-41B7-96D5-35B5EEE80824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E2C523-5480-41B7-96D5-35B5EEE80824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E2C523-5480-41B7-96D5-35B5EEE80824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E2C523-5480-41B7-96D5-35B5EEE80824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E2C523-5480-41B7-96D5-35B5EEE80824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBDD7942-FF21-43D4-BC86-095888B9D391}
+	EndGlobalSection
+EndGlobal
